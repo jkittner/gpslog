@@ -1,4 +1,6 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![pre-commit](https://github.com/theendlessriver13/gpslog/workflows/pre-commit/badge.svg)](https://github.com/theendlessriver13/gpslog/actions?query=workflow%3Apre-commit)
+[![build](https://github.com/theendlessriver13/gpslog/workflows/build/badge.svg)](https://github.com/theendlessriver13/gpslog/actions?query=workflow%3Abuild)
 # gpslog
 A tool to track your travel route using the adafruit gps and a raspberry pi.
 ## Installation

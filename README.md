@@ -1,5 +1,4 @@
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![pre-commit](https://github.com/theendlessriver13/gpslog/workflows/pre-commit/badge.svg)](https://github.com/theendlessriver13/gpslog/actions?query=workflow%3Apre-commit)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/theendlessriver13/gpslog/master.svg)](https://results.pre-commit.ci/latest/github/theendlessriver13/gpslog/master)
 [![build](https://github.com/theendlessriver13/gpslog/workflows/build/badge.svg)](https://github.com/theendlessriver13/gpslog/actions?query=workflow%3Abuild)
 
 # gpslog

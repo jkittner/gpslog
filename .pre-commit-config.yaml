@@ -10,6 +10,8 @@ repos:
     -   id: name-tests-test
     -   id: requirements-txt-fixer
     -   id: double-quote-string-fixer
+    -   id: check-added-large-files
+        args: ['--maxkb=1000']
 -   repo: https://gitlab.com/pycqa/flake8
     rev: 3.9.2
     hooks:
@@ -33,10 +35,6 @@ repos:
     rev: v1.17.0
     hooks:
     -   id: setup-cfg-fmt
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.0.1
-    hooks:
-    -   id: check-added-large-files
 -   repo: https://github.com/asottile/pyupgrade
     rev: v2.20.0
     hooks:

@@ -1,5 +1,5 @@
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/theendlessriver13/gpslog/master.svg)](https://results.pre-commit.ci/latest/github/theendlessriver13/gpslog/master)
-[![build](https://github.com/theendlessriver13/gpslog/workflows/build/badge.svg)](https://github.com/theendlessriver13/gpslog/actions?query=workflow%3Abuild)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/jkittner/gpslog/master.svg)](https://results.pre-commit.ci/latest/github/jkittner/gpslog/master)
+[![build](https://github.com/jkittner/gpslog/workflows/build/badge.svg)](https://github.com/jkittner/gpslog/actions?query=workflow%3Abuild)
 
 # gpslog
 

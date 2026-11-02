@@ -166,7 +166,7 @@ def main() -> None:
                     if args.verbose:
                         print(
                             f"{log['timestamp_utc']}: lat:{log['lat']}° "
-                            f"lon:{log['lon']}° alt:{log['alt'] } m OSL "
+                            f"lon:{log['lon']}° alt:{log['alt']} m OSL "
                             f"speed:{log['speed']} kph",
                         )
                     writer.writerow(log)
